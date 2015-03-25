@@ -1,0 +1,10 @@
+ cd algo/
+ cd algo/
+ ll hw/
+ ll wk*
+ ll *
+ pwd
+ pwd
+ ll hw/wk*
+ cd ...
+ cd ...

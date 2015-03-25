@@ -1,0 +1,8 @@
+ cd onlineEd/
+ cd onlineEd/
+ git status
+ git status
+ git status
+ cd ..
+ cd ..
+ git add

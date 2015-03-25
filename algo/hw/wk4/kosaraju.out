@@ -1,0 +1,16 @@
+2014/06/08 11:39:17 INFO: kosaraju is loading, welcome
+2014/06/08 11:39:17 INFO: starting algorith with nVertices = 9 and nEdges = 11
+2014/06/08 11:39:17 DEBUG: entering first dfsLoop pass None as f
+2014/06/08 11:39:17 DEBUG: out of first dfsLoop, len(f) = 10, f[1] = 4
+2014/06/08 11:39:17 DEBUG: entering second dfsLoop passing newly found f
+2014/06/08 11:39:17 DEBUG: out of second dfsLoop, len(leaders) = 9, leaders[1] = 7
+2014/06/08 11:39:17 DEBUG: counting the number of vertices per leader
+2014/06/08 11:39:22 INFO: kosaraju is loading, welcome
+2014/06/08 11:39:22 INFO: starting algorith with nVertices = 9 and nEdges = 11
+2014/06/08 11:39:22 DEBUG: entering first dfsLoop pass None as f
+2014/06/08 11:39:22 DEBUG: out of first dfsLoop, len(f) = 10, f[1] = 4
+2014/06/08 11:39:22 DEBUG: entering second dfsLoop passing newly found f
+2014/06/08 11:39:22 DEBUG: out of second dfsLoop, len(leaders) = 9, leaders[1] = 7
+2014/06/08 11:39:22 DEBUG: counting the number of vertices per leader
+2014/06/08 11:39:46 INFO: kosaraju is loading, welcome
+2014/06/08 11:39:46 INFO: starting algorith with nVertices = 9 and nEdges = 11

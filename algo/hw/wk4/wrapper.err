@@ -1,0 +1,9 @@
+2014/06/08 14:50:02: INFO: kosaraju is loading, welcome
+2014/06/08 14:50:27: INFO: kosaraju: starting algorithm with nVertices = 875714 and nEdges = 5105043
+2014/06/08 14:56:07: INFO: kosaraju: found 371762 SSCs, here's the top five
+2014/06/08 14:56:07: INFO: SSC #1: 434821
+2014/06/08 14:56:07: INFO: SSC #2: 968
+2014/06/08 14:56:07: INFO: SSC #3: 459
+2014/06/08 14:56:07: INFO: SSC #4: 313
+2014/06/08 14:56:07: INFO: SSC #5: 211
+2014/06/08 14:56:07: INFO: kosaraju: SSCs supposedly successfully sought, sayonara.
